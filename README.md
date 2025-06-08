@@ -129,4 +129,5 @@ I am truly sorry.
 
 
 References:
+
 1 - http://www.incompleteideas.net/IncIdeas/BitterLesson.html
