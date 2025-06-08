@@ -22,7 +22,7 @@ In 1997, when scientists launched the Human Genome Project, many believed we wou
 
 This holds true across all complex systems. Dependencies and interactions are more important than the building blocks themselves.
 
-As science became increasingly reductionist, it began to fail in key areas: billions were spent on string theory and particle physics, billions more on Alzheimer’s, cancer, and cell therapy research, and immense efforts were poured into bridging algebraic number theory and harmonic analysis. Scientists told us oils and eggs were bad for us, and allowed lead and microplastics into our food and air — permanently damaging our world and civilization.
+As science became increasingly reductionist, it began to fail in key areas: billions were spent on string theory and particle physics, billions more on Alzheimer’s, cancer, and cell therapy research, and immense efforts were poured into bridging algebraic number theory and harmonic analysis. Scientists told us oils and eggs were bad for us, and allowed lead and microplastics into our food and air — permanently damaging our world and civilization, public trust.
 
 To me, it was clear we were failing — and most likely headed toward mutual destruction, since our growth was dependent on continued scientific and technological advancement.
 
@@ -34,7 +34,7 @@ Sorry...
 
 ## Acceptance of Holism & Frequentism: Understanding the System Through Interactions
 
-There has long been debate about whether it is logical to understand a system by studying its parts *or* by understanding how those parts interact. Historically, the East struggled with complex interactions and leaned toward simplicity and order. We evolved to believe everything follows an orderly pattern. We created religions and myths to reinforce this worldview — even to the point of killing those who disrupted our fragile mental models of the universe.
+There has long been debate about whether it is logical to understand a system by studying its parts *or* by understanding how those parts interact. Historically, the East struggled with complex interactions and leaned toward simple answers like religion and unending fights & wars. We evolved to believe everything follows an orderly pattern. We created religions and myths to reinforce this worldview — even to the point of killing those who disrupted our fragile mental models of the universe.
 
 The West, however, succeeded by exploiting symmetries through understanding parts, enabling it to flourish and dominate other cultures. But today, we are more doubtful than ever whether this reductionist approach still works. The law of diminishing returns has set in; our civilization is stagnating under the weight of exponential growth.
 
@@ -62,7 +62,7 @@ When we scale AI with vast amounts of data, it can compensate for the inductive 
 
 When ChatGPT was released to the public, everyone suddenly became an *AI enthusiast, AI engineer, AI speaker, AI guru, AI something something*. People proclaimed that "prompt engineering" was the future, that "everyone will lose their jobs," and on and on.
 
-Billions of dollars flowed into AI startups, hype cycles, moats, promises, and chaotic predictions...
+Trillions of dollars flowed into AI startups, hype cycles, moats, promises, and empty predictions...
 
 ---
 
@@ -76,11 +76,11 @@ I foresee a worrying future where common people will suffer while a small group 
 
 They lie about things they know are untrue and create misinformation to influence public perception.
 
-*"Autonomous cars will be ready next year."*  
+*"Autonomous cars will be ready next year."* : https://www.youtube.com/watch?v=zhr6fHmCJ6k 
 *"All professions will disappear next year."*
 
 **It’s a lie. A deception.**  
-Created by what I call **MBA monkeys**, modern con men, tech bros. These people spin marketing stories that promise a non-existent future, making the public afraid of AI destruction, pushing for immediate regulation, predicting massive job losses — all to weaponize public sentiment for their own gain.
+Created by what I call **MBA monkeys**, modern con men, tech bros. These people spin marketing stories that promise a non-existent future, making the public afraid of AI destruction, pushing for immediate regulation, predicting massive job losses — all to weaponize public sentiment for their own short term gain.
 
 ---
 
@@ -94,7 +94,7 @@ AI works by creating **world models** using massive datasets created by humans. 
 
 AI was never designed to replace critical systems. It is *possibilistic*, not deterministic. It cannot extrapolate or reason about unknown or unseen paradigms. It also cannot continue learning and updating existing knowledge, as its training data and architecture are **static**.
 
-It never really worked in the ways that Sam Altman, Elon "Nazi" Musk, Mark "Certainly" Zuckerberg, or the broccoli-hype machine Dario Amodei have claimed.
+It never really worked in the ways that Scam Altman, Elon "Nazi" FuCk, Mark "Certainly" Suck'erberg, or the broccoli-hype machine Dario Amodei have claimed.
 
 ---
 
@@ -120,12 +120,12 @@ Once again, they will overpromise, terrify the public, extract their money, and 
 
 ## Path to Destruction & Collapse
 
-The AI bubble **needs to collapse** — now — before millions of people suffer and trillions more are wasted. The current path will lead only to tools for misinformation, public surveillance, and further enabling fascist and authoritarian forces.
+The AI bubble **needs to collapse** — now — before millions of people suffer and trillions more are wasted not delivering any results. The current path will lead only to tools for misinformation, public surveillance, and further enabling fascist and authoritarian forces.
 
 I am truly worried about what will happen to common people in the coming years. I am sorry that millions of people will lose their homes and life savings. I am sorry to be part of this corrupt system. I am sorry you may not believe me today — but you will suffer tomorrow.
 
-I am sorry.  
-I am truly sorry.
+I am sorry...
+I am truly sorry...
 
 
 References:
