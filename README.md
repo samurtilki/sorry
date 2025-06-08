@@ -112,6 +112,9 @@ I feel guilty. I feel disturbed to the point that I cannot sleep at night. I kno
 
 ## It’s Not Just AI
 
+It is not just this conmans, other MBA monkeys, CEOs of useless API wrapped startups, zombie tech companies, and just follow the current trend and deceive common people for current trend C-Suite nepo babies, academicians cherry-picking& manipulating lying each other to get more funding, you AI enthusiasts&guru trying to benefit and weaponize masses. 
+
+
 It is not just these AI scammers. The same lies were told about cryptocurrency, NFTs, the metaverse, IoT, mindless automation, and other fads. AI is simply their last big deception.
 
 Once again, they will overpromise, terrify the public, extract their money, and ultimately deliver nothing — this time with even greater consequences.
