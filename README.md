@@ -32,7 +32,7 @@ Sorry...
 
 ---
 
-## Acceptance of Holism & Frequentism: Understanding the System Through Interactions
+## Acceptance of Holism & Bayesian Statistics: Understanding the System Through Interactions
 
 There has long been debate about whether it is logical to understand a system by studying its parts *or* by understanding how those parts interact. Historically, the East struggled with complex interactions and leaned toward simple answers like religion and unending fights & wars. We evolved to believe everything follows an orderly pattern. We created religions and myths to reinforce this worldview — even to the point of killing those who disrupted our fragile mental models of the universe.
 
